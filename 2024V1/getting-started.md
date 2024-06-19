@@ -1,6 +1,6 @@
-# Getting started title
+# Getting started title [EDIT]
 
-Lorem ipsum dolor...
+Lorem ipsum dolor... [EDIT]
 
 Chameleon:
 
